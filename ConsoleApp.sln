@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSnippet", "CodeSnippet\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly", "Assembly\Assembly.csproj", "{58165CB0-A469-474A-AE62-BCEB9BFD0FC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{DB6154D0-D470-4414-957A-CB83AE664BED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{58165CB0-A469-474A-AE62-BCEB9BFD0FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58165CB0-A469-474A-AE62-BCEB9BFD0FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58165CB0-A469-474A-AE62-BCEB9BFD0FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB6154D0-D470-4414-957A-CB83AE664BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6154D0-D470-4414-957A-CB83AE664BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6154D0-D470-4414-957A-CB83AE664BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6154D0-D470-4414-957A-CB83AE664BED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
