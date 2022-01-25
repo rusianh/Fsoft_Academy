@@ -10,6 +10,7 @@ namespace Assembly
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello assembly");
         }
     }
 }
