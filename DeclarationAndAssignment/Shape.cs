@@ -8,6 +8,6 @@ namespace DeclarationAndAssignment
 {
     internal interface IShape
     {
-
+        //main
     }
 } 
